@@ -1,0 +1,62 @@
+# jemdoc: menu{MENU}{homework.html} 
+= 22494 Convex Optimization: Homework
+= [/http://math.sharif.edu/ Department of Mathematical Sciences],~[/http://www.sharif.ir/ Sharif University of Technology]\n
+~~~
+All numbered exercises are from
+the [http://www.stanford.edu/~boyd/cvxbook/ textbook];
+exercises which start with `A' are from the set of 
+[http://web.stanford.edu/class/ee364a/additional_exercises/extra_exercises.pdf additional exercises] posted on the textbook website. [http://www.stanford.edu/~boyd/cvxbook/cvxbook_additional_exercises/ Data files]
+for the additional exercises can be found on the [http://www.stanford.edu/~boyd/cvxbook/ textbook page]. If you cannot find an additional exercise listed, you may be looking at an outdated copy of the additional exercises; you should only use [http://web.stanford.edu/class/ee364a/additional_exercises/extra_exercises.pdf these exercises].\n
+~~~
+
+Homework is assigned each week, and due the following Saturday by 11:59 pm. *Late homework will not be accepted.* This year we will use [https://quera.ir/overview/add_to_course/course/4654 Quera]. The
+enrollment code for Quera is CVX. We will grade each question
+on a scale of {0, 1, 2}.\n
+ - Homework 1, due Friday 2\/21\/20:\n
+2.7, 2.8, 2.9, 2.13, 2.15.\n
+ - Homework 2, due Friday 2\/28\/20:\n
+2.16, 2.18, 2.19, 2.30, 2.37.\n
+ - Homework 3, due Friday 3\/6\/20:\n
+A1.3, A1.4, A1.5, A1.6, A1.7.\n
+ - Homework 4, due Friday 3\/13\/20:\n
+3.15, 3.17, 3.18, 3.25, 3.27.\n
+ - Homework 5, due Friday 3\/20\/20:\n
+3.37, 3.47, 3.48, 3.51, 3.52.\n
+ - Homework 6, due Saturday 4\/11\/20:\n
+4.9, 4.12, 4.16, 4.17, 4.20.\n
+ - Homework 7, due Saturday 4\/18\/20:\n
+4.22, 4.23, 4.24, 4.25, 4.45.\n
+ - Homework 8, due Saturday 4\/25\/20:\n
+5.24, 5.25, 5.27, 5.29, 5.30.\n
+ - Homework 9, due Saturday 5\/2\/20:\n
+5.10, 5.37, 5.40, 5.41, 5.42.\n
+ - Homework 10, due Saturday 5\/9\/20:\n
+A3.3, A3.10, A3.32, A4.3, A6.5.\n
+ - Homework 11, due Saturday 5\/16\/20:\n
+A3.18, A3.20, A3.26, A3.28, A4.1.\n
+ - Homework 12, due Saturday 5\/23\/20:\n
+A6.30, A7.23, A14.7, A14.30, A18.21.\n
+ - Homework 13, due Saturday 5\/30\/20:\n
+A5.23, A10.2, A14.31, A15.11, A17.9.\n
+ - Homework 14, due Saturday 6\/6\/20:\n
+A8.5, A11.3, A15.1, A17.6, A17.13.\n
+ - Homework 15, due Saturday 6\/13\/20:\n
+A5.12, A13.3, A13.4, A14.8, A14.10.\n
+ - Homework 16 (last one), due Saturday 6\/20\/20:\n
+A5.15, A6.6, A11.4, A12.9, A12.13.\n
+== Projects
+You are welcome, even encouraged, to use LaTeX to typeset your 
+project, but handwritten project is also OK.
+You're welcome (but not required) to use the 
+[http://www.stanford.edu/class/ee364b/latex_templates LaTeX templates for
+EE364b].\n
+ - Project 1, due Monday 7\/20\/20:\n
+A9.5 Standard form LP barrier method.\n
+A9.8 Standard form LP barrier method with infeasible start Newton method (includes A8.12).\n
+ - Project 2, due Friday 7\/24\/20:\n
+The second project involves writing a short report (1-2 pages) of a paper you read related to the course contents. A good resource for selecting your topic is the bibliography section at the end of each chapter of the book. All students are expected to give an oral summary of their reports too.\n
+
+
+
+
+
